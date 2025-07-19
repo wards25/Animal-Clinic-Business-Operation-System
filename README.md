@@ -15,7 +15,7 @@ The **Animal Clinic Business Operation System** is a web-based application desig
 ## 💻 Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap/Tailwind
-- **Backend:** Laravel (PHP)
+- **Backend:** PHP
 - **Database:** MySQL
 - **Authentication:** Laravel Breeze or Sanctum (if applicable)
 
